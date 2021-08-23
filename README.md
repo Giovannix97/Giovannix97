@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovannix97&show_icons=true&theme=radical)
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGiovannix97&count_bg=%23000105&title_bg=%23DE3C3C&icon=&icon_color=%23AB2F2F&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **Giovannix97/Giovannix97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
